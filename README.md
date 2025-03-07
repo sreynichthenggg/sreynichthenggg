@@ -30,5 +30,6 @@
 
 ## 📫 Let's Connect!
 
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kh.linkedin.com/in/phathyuth-nam-50ba55220](https://www.linkedin.com/in/theng-sreynich-14aa3a218/)
-[![Gitlab]([https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Nam-Phathyuth](https://gitlab.com/dashboard/projects/personal)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kh.linkedin.com/in/theng-sreynich-14aa3a218/)
+[![Gitlab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sreynichtheng547)
