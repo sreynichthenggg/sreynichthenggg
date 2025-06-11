@@ -25,7 +25,7 @@
 
 - Distributed systems & microservices
 - High-performance database indexing & caching
-- Exploring **Microservice**
+- Exploring **Microservice** & **Oauth2**
 
 
 ## 📫 Let's Connect!
