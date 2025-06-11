@@ -9,7 +9,7 @@
 
 - 💻 Backend Developer | Aspiring Architect
 - 🚀 Passionate about system design, high availability, and scalable architectures
-- 🔧 Love working with **Java, Spring Boot, MySQL, and Elasticsearch**
+- 🔧 Love working with **Java, Spring Boot, MySQL, MongoDB and Elasticsearch**
 - 📚 Enjoy listening to music, and gaming, create video in my free time
 
 ## 🔧 Tech Stack
@@ -25,7 +25,7 @@
 
 - Distributed systems & microservices
 - High-performance database indexing & caching
-- Exploring **Microservice** & **Oauth2**
+- Exploring **Microservice** & **Oauth2** 
 
 
 ## 📫 Let's Connect!
