@@ -8,7 +8,7 @@
 
 - 💻 Backend Developer | Aspiring Architect
 - 🚀 Passionate about system design, high availability, and scalable architectures
-- 🔧 Love working with **Java, Spring Boot, Python, PostgreSQL, MySQL, MongoDB, and Elasticsearch**
+- 🔧 Love working with  Spring Boot, Django, Laravel PostgreSQL, MySQL, MongoDB, and Elasticsearch**
 - 📚 Enjoy listening to music, gaming, and creating videos in my free time
 
 ## 🔧 Tech Stack
